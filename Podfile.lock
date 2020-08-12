@@ -1,0 +1,20 @@
+PODS:
+  - CocoaAsyncSocket (7.6.4)
+  - NMSSH (2.3.1)
+
+DEPENDENCIES:
+  - CocoaAsyncSocket
+  - NMSSH
+
+SPEC REPOS:
+  trunk:
+    - CocoaAsyncSocket
+    - NMSSH
+
+SPEC CHECKSUMS:
+  CocoaAsyncSocket: 694058e7c0ed05a9e217d1b3c7ded962f4180845
+  NMSSH: cd689ae535a1581a6dd9fd4600ff71247df510a6
+
+PODFILE CHECKSUM: 2262d3adad548378d7cf8048ef3efbbd41c38c1d
+
+COCOAPODS: 1.9.3
